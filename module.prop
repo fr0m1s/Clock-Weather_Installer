@@ -1,7 +1,7 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v3.7
-versionCode=19
-author=Zackptg5
-description=Magisk Module Template Extended
-updateJson=https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/update.json
+id=clk_wea
+name=Weather clock for SystemUI
+version=v1
+versionCode=1
+author=fr0m1s
+description=
+updateJson=
